@@ -1,0 +1,1001 @@
+transaction_date,description,category,amount
+2025-07-28,Fuel Station,Transport,3662.43
+2025-12-20,Discovery,Insurance,4190.68
+2025-05-01,Clicks,Shopping,1373.51
+2025-05-25,KFC,Food,4256.62
+2026-05-04,Pick n Pay,Food,1466.17
+2025-08-06,Discovery,Insurance,2691.86
+2026-01-12,Bolt,Transport,1617.61
+2025-08-14,Discovery,Insurance,2148.11
+2025-10-11,Electricity,Utilities,3637.56
+2026-04-19,Pick n Pay,Food,4512.29
+2026-03-29,Woolworths,Food,768.48
+2025-01-25,Electricity,Utilities,3374.52
+2026-06-05,McDonalds,Food,4117.86
+2025-01-29,KFC,Food,3105.29
+2026-04-11,Takealot,Shopping,4143.13
+2025-04-25,Clicks,Shopping,4148.4
+2025-07-25,Uber,Transport,4915.84
+2025-12-29,Electricity,Utilities,918.99
+2025-04-26,Sanlam,Insurance,3509.81
+2026-04-16,Clicks,Shopping,1546.71
+2025-07-31,Woolworths,Food,3477.88
+2026-04-14,Pharmacy,Medical,1003.91
+2026-05-14,Amazon,Shopping,2733.66
+2026-06-01,Old Mutual,Insurance,3237.2
+2026-08-24,Bolt,Transport,4612.06
+2025-07-14,Discovery,Insurance,2023.29
+2025-04-28,Uber,Transport,2579.41
+2025-08-02,Sanlam,Insurance,1939.86
+2025-01-29,Amazon,Shopping,3482.33
+2025-11-18,Amazon,Shopping,3448.92
+2026-03-27,Discovery,Insurance,4229.81
+2026-03-07,Old Mutual,Insurance,1474.93
+2025-05-02,Water Bill,Utilities,1208.29
+2026-02-11,McDonalds,Food,2193.49
+2025-02-27,Water Bill,Utilities,4326.44
+2025-08-05,Clicks,Shopping,4727.04
+2025-03-29,Pharmacy,Medical,3159.37
+2026-07-03,Doctor Visit,Medical,4659.63
+2026-02-24,Electricity,Utilities,1088.82
+2025-11-02,Netflix,Entertainment,2715.1
+2026-05-31,Electricity,Utilities,2271.92
+2026-06-27,Netflix,Entertainment,4595.78
+2025-03-04,Spotify,Entertainment,1018.4
+2025-07-05,Electricity,Utilities,626.25
+2025-01-21,Checkers,Food,3166.88
+2026-03-24,Showmax,Entertainment,3244.18
+2025-07-06,Checkers,Food,2453.92
+2025-12-18,Pharmacy,Medical,1606.7
+2026-03-13,Discovery,Insurance,3920.51
+2025-07-03,Bolt,Transport,3618.7
+2025-11-15,Fuel Station,Transport,1201.25
+2026-04-05,Doctor Visit,Medical,4495.93
+2026-01-20,Bolt,Transport,85.16
+2026-06-05,Woolworths,Food,3916.42
+2025-11-30,Clicks,Shopping,1450.17
+2025-03-14,Pick n Pay,Food,3888.71
+2025-12-03,Doctor Visit,Medical,1524.98
+2026-07-22,Electricity,Utilities,2771.54
+2025-01-12,Amazon,Shopping,1925.11
+2025-10-03,Pharmacy,Medical,4948.69
+2026-05-21,Bolt,Transport,3311.2
+2025-04-03,McDonalds,Food,751.94
+2025-11-28,Old Mutual,Insurance,3759.9
+2025-10-11,Old Mutual,Insurance,3245.91
+2026-04-01,Showmax,Entertainment,2812.51
+2025-11-09,Showmax,Entertainment,4933.54
+2025-01-24,Water Bill,Utilities,3834.26
+2025-06-09,Electricity,Utilities,4318.35
+2026-04-04,Fuel Station,Transport,3901.49
+2025-08-16,Electricity,Utilities,851.31
+2025-07-05,Takealot,Shopping,3562.38
+2026-06-19,Showmax,Entertainment,4703.54
+2025-06-26,Netflix,Entertainment,2270.92
+2025-06-01,McDonalds,Food,1353.59
+2026-03-30,Bolt,Transport,2335.67
+2026-02-18,Pharmacy,Medical,2859.04
+2026-02-08,Uber,Transport,2062.01
+2026-01-17,Netflix,Entertainment,2945.28
+2025-04-09,Checkers,Food,1368.9
+2025-05-13,McDonalds,Food,2595.49
+2025-05-16,Fuel Station,Transport,1432.84
+2026-06-14,Pharmacy,Medical,3007.75
+2025-08-17,Clicks,Shopping,4357.25
+2025-07-25,Uber,Transport,3142.59
+2026-06-28,Pharmacy,Medical,3270.96
+2026-03-09,McDonalds,Food,4768.41
+2025-03-30,Clicks,Shopping,1490.72
+2026-02-22,Woolworths,Food,991.22
+2025-11-17,Woolworths,Food,2523.17
+2025-04-26,Discovery,Insurance,4810.85
+2026-04-14,Netflix,Entertainment,551.95
+2025-08-15,Uber,Transport,4483.4
+2026-07-11,Sanlam,Insurance,656.68
+2026-06-27,McDonalds,Food,86.82
+2025-10-20,Pharmacy,Medical,4152.28
+2025-09-21,Fuel Station,Transport,292.92
+2025-03-17,Pharmacy,Medical,2166.86
+2025-03-19,Pharmacy,Medical,2189.57
+2026-08-08,Fuel Station,Transport,3628.62
+2025-04-30,Takealot,Shopping,2868.44
+2025-06-09,Old Mutual,Insurance,4167.6
+2025-04-08,Sanlam,Insurance,4540.58
+2026-06-02,Old Mutual,Insurance,215.08
+2026-02-18,Takealot,Shopping,2697.3
+2026-06-13,Electricity,Utilities,2862.66
+2025-05-05,McDonalds,Food,877.28
+2025-04-14,Showmax,Entertainment,3726.59
+2025-06-15,Water Bill,Utilities,4633.61
+2025-07-23,Pharmacy,Medical,701.59
+2025-11-24,Pharmacy,Medical,354.79
+2026-01-17,Water Bill,Utilities,1045.41
+2026-05-12,Bolt,Transport,3366.98
+2025-02-20,Sanlam,Insurance,3795.31
+2026-07-17,Pharmacy,Medical,2332.54
+2025-11-30,Sanlam,Insurance,679.52
+2025-05-14,Fuel Station,Transport,501.75
+2025-01-30,Electricity,Utilities,1668.74
+2025-07-30,Doctor Visit,Medical,4936.4
+2026-03-03,Uber,Transport,940.5
+2025-10-01,Spotify,Entertainment,1127.26
+2026-01-10,Electricity,Utilities,4691.44
+2025-08-08,Bolt,Transport,2115.54
+2025-09-06,Bolt,Transport,769.79
+2026-07-27,Old Mutual,Insurance,2021.94
+2025-03-05,Amazon,Shopping,155.79
+2025-11-26,Sanlam,Insurance,3535.58
+2025-07-21,Pick n Pay,Food,2308.19
+2026-04-19,McDonalds,Food,1539.58
+2026-02-17,Bolt,Transport,1679.38
+2025-10-09,Sanlam,Insurance,4269.39
+2025-02-28,Clicks,Shopping,3780.18
+2025-04-21,Pharmacy,Medical,2370.11
+2025-11-11,Pick n Pay,Food,4821.25
+2025-02-18,Checkers,Food,2930.13
+2025-08-06,McDonalds,Food,4710.04
+2026-08-04,Woolworths,Food,3264.26
+2025-08-17,Pharmacy,Medical,1225.14
+2026-05-12,Netflix,Entertainment,2938.18
+2025-06-18,Showmax,Entertainment,948.09
+2026-08-03,Showmax,Entertainment,1890.38
+2025-11-09,Water Bill,Utilities,3772.98
+2025-10-13,Doctor Visit,Medical,2041.85
+2025-07-21,Water Bill,Utilities,3132.27
+2025-04-06,Takealot,Shopping,2740.28
+2025-09-02,Bolt,Transport,3335.09
+2025-12-17,Pharmacy,Medical,3741.78
+2026-08-07,Doctor Visit,Medical,463.74
+2026-07-29,Woolworths,Food,297.65
+2026-02-02,Netflix,Entertainment,3382.05
+2025-03-21,Fuel Station,Transport,3634.31
+2026-02-26,KFC,Food,889.29
+2026-02-17,Netflix,Entertainment,1156.42
+2025-01-26,Bolt,Transport,3166.55
+2025-10-14,Uber,Transport,2169.88
+2025-02-19,Spotify,Entertainment,1775.62
+2026-03-24,Doctor Visit,Medical,4898.01
+2025-07-06,Bolt,Transport,4889.77
+2025-03-24,Water Bill,Utilities,377.02
+2025-05-07,Old Mutual,Insurance,626.72
+2026-02-10,Amazon,Shopping,2049.28
+2025-03-10,KFC,Food,4901.14
+2025-12-02,Electricity,Utilities,928.33
+2025-03-29,Amazon,Shopping,979.88
+2025-02-25,Pharmacy,Medical,1505.98
+2025-10-07,Uber,Transport,2847.02
+2025-08-04,Sanlam,Insurance,3465.15
+2026-05-07,Doctor Visit,Medical,4605.36
+2026-04-04,Doctor Visit,Medical,3325.65
+2025-04-04,Electricity,Utilities,1645.17
+2025-03-05,Spotify,Entertainment,1088.88
+2025-04-07,Electricity,Utilities,4064.51
+2025-07-26,Amazon,Shopping,703.78
+2026-06-29,Pick n Pay,Food,3907.83
+2026-08-08,Electricity,Utilities,1310.84
+2025-04-07,Pick n Pay,Food,1828.29
+2026-01-15,Electricity,Utilities,4659.15
+2025-04-29,Discovery,Insurance,3719.6
+2026-07-29,Sanlam,Insurance,1326.52
+2026-04-12,Netflix,Entertainment,814.74
+2025-06-26,Showmax,Entertainment,1046.13
+2026-07-20,Doctor Visit,Medical,4420.1
+2025-12-12,KFC,Food,4594.36
+2025-03-24,Doctor Visit,Medical,2159.56
+2026-05-29,Electricity,Utilities,1029.78
+2026-08-16,Electricity,Utilities,4515.64
+2025-04-24,Doctor Visit,Medical,3067.29
+2026-07-25,Showmax,Entertainment,3559.55
+2026-05-02,Bolt,Transport,690.55
+2025-12-06,Water Bill,Utilities,818.66
+2025-04-08,Netflix,Entertainment,2385.44
+2026-03-06,Uber,Transport,3113.04
+2026-01-14,Water Bill,Utilities,3063.66
+2025-06-24,Doctor Visit,Medical,472.01
+2026-02-27,Fuel Station,Transport,3913.78
+2025-07-30,Pharmacy,Medical,3988.55
+2025-02-05,Uber,Transport,2055.96
+2025-02-25,Woolworths,Food,4103.74
+2025-01-17,Electricity,Utilities,2973.13
+2026-06-14,Doctor Visit,Medical,2541.68
+2026-05-29,Bolt,Transport,551.25
+2025-03-01,Discovery,Insurance,2796.71
+2025-10-02,Discovery,Insurance,838.38
+2025-01-17,Bolt,Transport,3070.39
+2025-04-11,Amazon,Shopping,2675.62
+2025-12-30,Pharmacy,Medical,1888.59
+2026-03-17,Discovery,Insurance,1374.57
+2026-05-16,Bolt,Transport,3408.62
+2026-06-13,KFC,Food,2717.25
+2025-03-17,Checkers,Food,2298.46
+2025-04-19,Electricity,Utilities,1689.53
+2025-05-29,Takealot,Shopping,1009.3
+2025-09-06,Spotify,Entertainment,142.12
+2025-12-26,Water Bill,Utilities,4403.16
+2026-07-15,Discovery,Insurance,4016.68
+2025-04-26,Spotify,Entertainment,2949.01
+2025-06-22,Pharmacy,Medical,1814.75
+2026-03-05,Amazon,Shopping,2661.49
+2026-08-02,Pharmacy,Medical,1351.07
+2026-03-28,Water Bill,Utilities,1103.87
+2026-05-22,Old Mutual,Insurance,1472.68
+2025-05-27,Showmax,Entertainment,1662.24
+2026-04-03,Showmax,Entertainment,4187.38
+2025-02-01,Showmax,Entertainment,2529.85
+2025-12-29,Bolt,Transport,293.66
+2025-11-28,Pharmacy,Medical,1441.94
+2026-03-06,McDonalds,Food,1310.61
+2026-08-13,Pick n Pay,Food,264.53
+2026-02-17,Fuel Station,Transport,3197.08
+2025-07-28,KFC,Food,2901.12
+2026-05-01,Discovery,Insurance,464.31
+2026-06-07,Spotify,Entertainment,1553.88
+2026-04-16,Doctor Visit,Medical,358.6
+2025-04-20,Electricity,Utilities,2635.84
+2025-02-10,Electricity,Utilities,1986.99
+2025-09-15,Doctor Visit,Medical,1367.38
+2025-08-20,McDonalds,Food,1374.23
+2025-10-18,Amazon,Shopping,935.13
+2025-03-30,Pharmacy,Medical,4585.88
+2026-08-20,Netflix,Entertainment,812.77
+2025-03-24,Doctor Visit,Medical,662.08
+2025-01-21,Woolworths,Food,3489.82
+2025-11-17,Showmax,Entertainment,369.89
+2025-11-08,Amazon,Shopping,2246.32
+2025-05-23,KFC,Food,2661.91
+2025-09-24,Takealot,Shopping,2987.34
+2025-09-12,Electricity,Utilities,2308.67
+2025-01-23,Pick n Pay,Food,3106.94
+2025-10-10,Amazon,Shopping,3243.65
+2025-08-17,Netflix,Entertainment,174.49
+2025-11-30,Clicks,Shopping,129.1
+2026-07-17,Woolworths,Food,1156.19
+2025-06-11,Clicks,Shopping,4419.49
+2025-09-17,Spotify,Entertainment,4114.3
+2026-08-22,Woolworths,Food,2294.85
+2026-02-03,Clicks,Shopping,3244.33
+2025-02-15,Water Bill,Utilities,470.1
+2025-01-02,Pharmacy,Medical,1042.74
+2025-01-24,Fuel Station,Transport,116.49
+2025-05-21,Amazon,Shopping,2462.16
+2026-07-17,Pharmacy,Medical,1450.66
+2025-06-15,McDonalds,Food,2491.73
+2026-07-15,Woolworths,Food,1600.51
+2026-05-26,Fuel Station,Transport,2918.68
+2025-01-13,Water Bill,Utilities,1211.65
+2025-03-08,Sanlam,Insurance,1013.05
+2026-03-18,Takealot,Shopping,4644.24
+2025-04-08,Bolt,Transport,2997.89
+2025-02-14,Checkers,Food,581.3
+2026-01-19,Showmax,Entertainment,1357.78
+2025-06-23,Doctor Visit,Medical,1238.88
+2025-01-18,Pick n Pay,Food,440.39
+2026-07-30,Netflix,Entertainment,4401.32
+2025-11-14,Takealot,Shopping,2621.64
+2026-04-11,Showmax,Entertainment,1621.52
+2025-10-05,Clicks,Shopping,52.08
+2025-08-16,Takealot,Shopping,163.7
+2025-05-25,Electricity,Utilities,2927.53
+2026-07-04,Woolworths,Food,2097.74
+2026-08-03,Amazon,Shopping,4221.33
+2026-06-27,Takealot,Shopping,2352.77
+2025-05-06,Sanlam,Insurance,2457.74
+2025-11-21,Netflix,Entertainment,1372.13
+2025-12-01,Electricity,Utilities,4138.48
+2026-02-10,Bolt,Transport,2276.52
+2025-11-12,Electricity,Utilities,1034.73
+2026-07-15,Amazon,Shopping,3472.25
+2025-01-31,Spotify,Entertainment,1763.0
+2026-06-04,Spotify,Entertainment,500.59
+2026-04-05,Fuel Station,Transport,2335.07
+2025-07-16,Doctor Visit,Medical,1957.69
+2026-08-06,Takealot,Shopping,710.83
+2026-01-16,Spotify,Entertainment,4455.07
+2025-09-25,Uber,Transport,2159.32
+2026-04-05,Amazon,Shopping,4012.81
+2026-02-02,Doctor Visit,Medical,4978.12
+2025-12-24,Doctor Visit,Medical,4708.97
+2025-09-27,Fuel Station,Transport,3054.01
+2025-01-30,Woolworths,Food,4561.54
+2025-12-14,Woolworths,Food,4009.25
+2025-07-06,Doctor Visit,Medical,4511.65
+2025-08-25,Checkers,Food,1851.5
+2025-02-18,Sanlam,Insurance,2326.08
+2026-02-19,Pick n Pay,Food,2465.71
+2025-06-17,Pharmacy,Medical,3256.46
+2025-10-02,Old Mutual,Insurance,2048.77
+2026-07-22,Pharmacy,Medical,4811.84
+2025-11-23,Water Bill,Utilities,1641.98
+2025-04-08,Takealot,Shopping,1680.3
+2026-08-04,Bolt,Transport,1952.51
+2025-05-26,Takealot,Shopping,2713.07
+2026-04-07,Clicks,Shopping,3204.61
+2025-08-03,Doctor Visit,Medical,1866.47
+2025-01-01,Pharmacy,Medical,2696.54
+2025-09-21,Spotify,Entertainment,1305.19
+2025-12-22,Spotify,Entertainment,2157.75
+2026-02-06,McDonalds,Food,3361.2
+2025-02-02,Sanlam,Insurance,3092.71
+2026-04-22,Electricity,Utilities,4602.46
+2025-04-03,Water Bill,Utilities,459.36
+2025-08-25,Spotify,Entertainment,4130.52
+2025-08-29,Showmax,Entertainment,1698.43
+2025-08-23,Old Mutual,Insurance,3038.1
+2025-07-29,McDonalds,Food,4038.69
+2025-07-19,Pick n Pay,Food,2457.02
+2026-04-07,KFC,Food,4643.83
+2026-02-02,Water Bill,Utilities,4076.74
+2025-01-03,Netflix,Entertainment,3164.05
+2025-12-05,Woolworths,Food,1351.54
+2025-06-11,Clicks,Shopping,4545.23
+2025-07-17,Pharmacy,Medical,1182.42
+2025-03-02,Sanlam,Insurance,1155.08
+2026-02-09,Clicks,Shopping,2421.89
+2025-02-05,Clicks,Shopping,2092.22
+2025-09-13,Old Mutual,Insurance,3108.64
+2025-08-31,Old Mutual,Insurance,1447.49
+2025-09-08,Water Bill,Utilities,2009.24
+2026-03-14,Amazon,Shopping,2866.44
+2025-02-19,Sanlam,Insurance,4710.4
+2025-02-18,Doctor Visit,Medical,3149.85
+2026-01-06,Takealot,Shopping,4305.36
+2025-08-05,Doctor Visit,Medical,4000.42
+2025-12-18,Water Bill,Utilities,1771.52
+2025-01-03,Fuel Station,Transport,2244.2
+2026-06-03,Pick n Pay,Food,1897.0
+2025-09-04,Amazon,Shopping,2828.77
+2026-05-20,Clicks,Shopping,4673.02
+2026-06-07,Amazon,Shopping,3804.46
+2026-05-13,Electricity,Utilities,1876.1
+2025-10-30,Electricity,Utilities,3541.12
+2025-01-10,Discovery,Insurance,559.75
+2025-11-16,Pharmacy,Medical,3482.15
+2025-05-10,Pharmacy,Medical,4706.09
+2026-05-18,Old Mutual,Insurance,2276.0
+2026-03-23,Pharmacy,Medical,4050.49
+2025-01-11,Doctor Visit,Medical,2246.91
+2025-01-19,Doctor Visit,Medical,2853.53
+2025-07-17,Fuel Station,Transport,2250.53
+2025-10-10,Amazon,Shopping,570.28
+2026-02-19,Doctor Visit,Medical,3659.26
+2025-07-04,Electricity,Utilities,4552.62
+2026-02-11,KFC,Food,1985.96
+2025-12-16,Pharmacy,Medical,3204.04
+2025-05-30,Pharmacy,Medical,669.0
+2025-02-02,Checkers,Food,139.87
+2025-01-08,McDonalds,Food,1022.15
+2026-07-06,Netflix,Entertainment,800.45
+2025-03-04,Amazon,Shopping,2253.96
+2025-04-29,Discovery,Insurance,4180.25
+2026-01-25,Electricity,Utilities,4225.22
+2025-05-06,Uber,Transport,3262.63
+2025-01-04,Doctor Visit,Medical,3381.19
+2026-04-19,Sanlam,Insurance,4982.58
+2025-06-18,Discovery,Insurance,4471.86
+2026-03-24,Sanlam,Insurance,123.89
+2026-08-02,Uber,Transport,2213.23
+2025-05-26,Pharmacy,Medical,750.52
+2025-02-18,Clicks,Shopping,393.34
+2025-08-11,McDonalds,Food,1900.95
+2026-02-18,Electricity,Utilities,3205.03
+2025-07-28,Discovery,Insurance,3078.5
+2025-01-16,Sanlam,Insurance,956.94
+2025-03-20,Spotify,Entertainment,1415.93
+2026-02-15,Fuel Station,Transport,2739.94
+2026-02-11,Bolt,Transport,4544.17
+2026-04-28,Bolt,Transport,4881.06
+2025-02-03,Electricity,Utilities,3421.89
+2025-12-27,Spotify,Entertainment,4103.06
+2025-11-29,KFC,Food,2242.16
+2025-02-10,KFC,Food,3805.34
+2026-05-02,Sanlam,Insurance,727.14
+2025-01-19,Electricity,Utilities,1706.04
+2025-12-22,Doctor Visit,Medical,1271.73
+2025-12-05,Amazon,Shopping,440.15
+2025-12-15,Checkers,Food,1539.2
+2026-04-22,Electricity,Utilities,449.35
+2025-08-15,Fuel Station,Transport,1609.49
+2026-02-19,Takealot,Shopping,4989.99
+2025-02-23,Sanlam,Insurance,127.16
+2025-10-30,Takealot,Shopping,1084.91
+2025-03-15,Amazon,Shopping,4416.38
+2025-09-14,Pharmacy,Medical,4125.22
+2025-11-11,Water Bill,Utilities,2950.79
+2025-07-27,Old Mutual,Insurance,964.3
+2025-10-28,Uber,Transport,1314.68
+2026-07-25,Electricity,Utilities,1950.52
+2025-01-20,Doctor Visit,Medical,1513.62
+2026-05-25,Spotify,Entertainment,3513.09
+2026-07-01,Uber,Transport,118.4
+2025-02-22,Discovery,Insurance,4498.85
+2025-10-30,Water Bill,Utilities,4041.63
+2025-02-21,Pharmacy,Medical,499.59
+2025-01-18,Spotify,Entertainment,1583.55
+2025-05-26,Pharmacy,Medical,3623.77
+2026-04-02,Spotify,Entertainment,883.46
+2026-01-05,Takealot,Shopping,3870.5
+2026-08-20,Doctor Visit,Medical,1195.46
+2026-08-04,Doctor Visit,Medical,1225.27
+2025-06-28,Showmax,Entertainment,161.25
+2025-03-24,Takealot,Shopping,3699.27
+2025-06-18,Doctor Visit,Medical,4809.85
+2025-09-24,Pharmacy,Medical,598.86
+2026-08-21,Checkers,Food,465.69
+2025-03-02,Old Mutual,Insurance,4064.96
+2025-05-19,Takealot,Shopping,3303.5
+2025-01-30,Pharmacy,Medical,1226.42
+2026-02-10,Fuel Station,Transport,3189.02
+2025-12-13,Pick n Pay,Food,1256.27
+2025-01-12,McDonalds,Food,1391.78
+2025-02-16,Checkers,Food,2519.41
+2025-07-28,Pick n Pay,Food,1728.24
+2026-03-28,Amazon,Shopping,442.09
+2026-08-14,Pharmacy,Medical,2724.71
+2025-11-20,Old Mutual,Insurance,4397.8
+2025-04-06,Spotify,Entertainment,1315.76
+2025-07-23,Discovery,Insurance,3958.52
+2026-07-26,Sanlam,Insurance,2334.26
+2025-08-05,Pharmacy,Medical,1765.89
+2026-08-03,KFC,Food,1798.53
+2026-06-02,Pharmacy,Medical,1995.34
+2025-06-17,Amazon,Shopping,3913.1
+2025-11-30,Fuel Station,Transport,2086.45
+2025-05-27,Bolt,Transport,4231.82
+2025-06-21,Showmax,Entertainment,3470.26
+2025-03-10,Water Bill,Utilities,3205.61
+2025-12-14,Spotify,Entertainment,2863.53
+2026-03-30,Electricity,Utilities,1731.36
+2025-03-22,Bolt,Transport,2534.25
+2025-02-23,Amazon,Shopping,2284.16
+2026-02-07,Amazon,Shopping,1268.58
+2025-05-17,Takealot,Shopping,757.27
+2025-02-04,Checkers,Food,4684.25
+2026-01-28,Fuel Station,Transport,2083.35
+2025-12-30,Bolt,Transport,2948.91
+2025-08-18,Discovery,Insurance,2455.81
+2025-08-26,Electricity,Utilities,1747.03
+2025-07-20,Pick n Pay,Food,2311.71
+2025-11-15,Fuel Station,Transport,3964.02
+2026-05-08,Takealot,Shopping,4620.16
+2025-06-29,Woolworths,Food,2911.16
+2025-06-23,Amazon,Shopping,1269.39
+2025-11-13,Checkers,Food,4406.34
+2025-04-20,Pharmacy,Medical,199.75
+2026-05-10,McDonalds,Food,1881.24
+2026-08-03,Pharmacy,Medical,3060.41
+2026-03-18,Discovery,Insurance,4825.85
+2025-06-07,Takealot,Shopping,3083.32
+2025-11-19,Discovery,Insurance,749.51
+2026-01-09,Spotify,Entertainment,1888.58
+2025-07-31,Clicks,Shopping,144.27
+2025-12-30,Fuel Station,Transport,187.17
+2026-05-23,Electricity,Utilities,4426.24
+2026-04-22,Old Mutual,Insurance,3856.55
+2025-12-03,Woolworths,Food,3620.17
+2025-06-06,Takealot,Shopping,4131.49
+2026-08-19,Showmax,Entertainment,3547.1
+2026-07-23,Water Bill,Utilities,2064.93
+2025-02-16,Fuel Station,Transport,4976.97
+2025-12-24,Fuel Station,Transport,3410.88
+2026-02-21,Clicks,Shopping,731.66
+2025-05-31,Water Bill,Utilities,492.28
+2025-03-25,Sanlam,Insurance,4628.02
+2025-12-16,KFC,Food,2445.13
+2025-10-12,Water Bill,Utilities,4459.54
+2026-01-11,Showmax,Entertainment,1939.03
+2026-05-17,Pharmacy,Medical,4519.29
+2026-08-13,Electricity,Utilities,2330.12
+2025-05-31,Showmax,Entertainment,4094.05
+2026-06-06,Discovery,Insurance,586.15
+2026-04-15,Spotify,Entertainment,2861.8
+2025-01-16,Netflix,Entertainment,1753.63
+2025-10-07,Pharmacy,Medical,2415.9
+2025-03-07,Spotify,Entertainment,2538.15
+2026-07-04,Electricity,Utilities,4102.8
+2025-08-05,Amazon,Shopping,4579.22
+2026-03-20,Discovery,Insurance,152.05
+2026-04-25,Clicks,Shopping,81.04
+2025-09-29,Water Bill,Utilities,1700.33
+2026-01-21,Pharmacy,Medical,4012.19
+2025-10-03,Netflix,Entertainment,4227.83
+2026-07-15,Netflix,Entertainment,881.65
+2025-09-13,Pharmacy,Medical,3087.76
+2025-08-03,Showmax,Entertainment,4414.97
+2025-11-27,Checkers,Food,480.65
+2025-04-24,Fuel Station,Transport,2485.01
+2026-03-02,Doctor Visit,Medical,656.8
+2025-09-02,Fuel Station,Transport,1429.05
+2025-10-29,Amazon,Shopping,4932.53
+2026-04-03,Doctor Visit,Medical,877.98
+2026-03-23,Bolt,Transport,193.17
+2025-11-30,Uber,Transport,967.54
+2026-07-10,Discovery,Insurance,4085.01
+2026-01-26,Fuel Station,Transport,1221.59
+2026-08-10,Netflix,Entertainment,3705.52
+2026-03-13,Pick n Pay,Food,1490.4
+2026-07-26,Pharmacy,Medical,94.95
+2025-08-13,Uber,Transport,3580.06
+2026-01-02,Showmax,Entertainment,3907.46
+2025-02-28,Amazon,Shopping,3345.21
+2025-04-09,Pharmacy,Medical,1303.11
+2026-02-17,Takealot,Shopping,4018.7
+2025-05-27,Takealot,Shopping,1124.88
+2025-10-29,Pharmacy,Medical,210.05
+2025-09-26,Doctor Visit,Medical,2286.05
+2025-12-21,Clicks,Shopping,3879.59
+2026-08-18,Netflix,Entertainment,743.07
+2026-05-14,Old Mutual,Insurance,3665.09
+2026-01-28,Netflix,Entertainment,1866.5
+2026-05-17,Netflix,Entertainment,123.94
+2026-06-26,Pick n Pay,Food,2593.04
+2026-03-26,Old Mutual,Insurance,1377.59
+2026-06-18,Amazon,Shopping,2692.09
+2025-03-07,McDonalds,Food,2799.65
+2026-04-10,Showmax,Entertainment,3530.51
+2025-09-23,Sanlam,Insurance,2258.4
+2025-12-19,Netflix,Entertainment,3605.2
+2026-03-03,Water Bill,Utilities,2613.23
+2026-04-22,Spotify,Entertainment,1526.86
+2026-05-30,McDonalds,Food,2618.33
+2025-04-28,Takealot,Shopping,3363.71
+2026-03-29,Electricity,Utilities,1107.14
+2025-05-28,Uber,Transport,4941.09
+2025-02-13,McDonalds,Food,4144.46
+2025-07-31,Electricity,Utilities,4802.46
+2025-03-16,Sanlam,Insurance,2125.68
+2026-07-07,Water Bill,Utilities,2134.66
+2025-02-21,Electricity,Utilities,2588.08
+2025-11-07,Checkers,Food,183.8
+2025-10-30,Fuel Station,Transport,308.05
+2026-06-22,Amazon,Shopping,637.79
+2025-02-27,Showmax,Entertainment,3767.66
+2026-05-13,Electricity,Utilities,3605.21
+2025-12-30,Clicks,Shopping,3237.57
+2025-09-15,Bolt,Transport,529.52
+2025-10-14,Bolt,Transport,3559.83
+2025-01-18,Pick n Pay,Food,1557.41
+2025-12-17,Fuel Station,Transport,2575.85
+2025-01-05,Showmax,Entertainment,2602.05
+2025-05-18,Woolworths,Food,3553.28
+2026-07-10,Electricity,Utilities,4142.36
+2025-01-26,Water Bill,Utilities,4788.93
+2026-03-15,Netflix,Entertainment,4418.05
+2025-10-21,Woolworths,Food,4253.1
+2025-07-03,Fuel Station,Transport,2695.48
+2025-12-27,Old Mutual,Insurance,2791.74
+2025-09-01,Bolt,Transport,3768.27
+2025-10-02,Amazon,Shopping,2322.06
+2026-07-08,Sanlam,Insurance,227.02
+2026-02-13,Uber,Transport,1709.93
+2025-01-27,Electricity,Utilities,189.11
+2025-07-25,Amazon,Shopping,3720.3
+2026-01-27,Bolt,Transport,1130.67
+2025-11-18,Old Mutual,Insurance,3843.57
+2026-08-09,Takealot,Shopping,3473.59
+2025-01-08,Netflix,Entertainment,3983.7
+2025-04-23,Electricity,Utilities,2116.91
+2026-02-03,Discovery,Insurance,395.45
+2026-03-11,Uber,Transport,999.15
+2025-07-10,Netflix,Entertainment,726.39
+2025-08-01,Sanlam,Insurance,3691.09
+2026-06-03,Amazon,Shopping,139.29
+2025-07-11,Amazon,Shopping,1698.74
+2025-10-06,Pick n Pay,Food,1660.21
+2026-01-31,Pharmacy,Medical,649.63
+2025-06-27,McDonalds,Food,205.2
+2025-07-18,Showmax,Entertainment,3456.1
+2025-02-03,Clicks,Shopping,2334.07
+2025-09-02,Doctor Visit,Medical,3891.93
+2026-05-13,Electricity,Utilities,4669.4
+2025-05-31,Clicks,Shopping,1863.21
+2025-07-30,Water Bill,Utilities,1448.15
+2026-07-16,Clicks,Shopping,1078.19
+2026-05-27,Sanlam,Insurance,187.56
+2025-05-05,Showmax,Entertainment,2665.14
+2026-07-13,Electricity,Utilities,3775.61
+2026-01-29,Showmax,Entertainment,1380.66
+2026-05-08,Amazon,Shopping,1219.98
+2025-07-01,KFC,Food,3738.1
+2026-04-27,Electricity,Utilities,3416.15
+2025-03-12,Amazon,Shopping,1419.58
+2025-09-05,Uber,Transport,2133.94
+2025-09-30,Sanlam,Insurance,3523.3
+2026-05-21,Spotify,Entertainment,4789.9
+2025-04-28,Discovery,Insurance,1161.84
+2026-01-20,Sanlam,Insurance,1813.28
+2025-09-03,Electricity,Utilities,4218.62
+2026-03-08,Amazon,Shopping,2503.35
+2025-01-17,Electricity,Utilities,3620.19
+2025-12-25,Uber,Transport,4209.85
+2025-10-26,Doctor Visit,Medical,1931.73
+2026-06-15,Discovery,Insurance,1083.78
+2025-08-11,KFC,Food,4623.92
+2026-04-15,Netflix,Entertainment,2918.11
+2025-02-13,Bolt,Transport,3912.62
+2025-05-23,Doctor Visit,Medical,387.69
+2026-01-10,Checkers,Food,3416.41
+2026-01-06,Netflix,Entertainment,1938.02
+2025-04-16,Amazon,Shopping,2526.12
+2025-06-28,Old Mutual,Insurance,1296.16
+2025-08-08,Netflix,Entertainment,3538.47
+2026-04-16,Pick n Pay,Food,789.55
+2026-06-14,Amazon,Shopping,227.34
+2025-06-16,Old Mutual,Insurance,4461.52
+2026-02-21,Amazon,Shopping,4964.55
+2025-04-07,Showmax,Entertainment,4682.71
+2025-10-26,Showmax,Entertainment,2455.77
+2025-03-12,Old Mutual,Insurance,2067.05
+2025-09-06,McDonalds,Food,240.41
+2026-04-29,Fuel Station,Transport,226.96
+2026-07-27,Sanlam,Insurance,4837.12
+2025-09-08,Pharmacy,Medical,2627.43
+2025-10-04,Woolworths,Food,1737.27
+2026-03-18,Fuel Station,Transport,1811.73
+2025-01-29,Clicks,Shopping,1907.58
+2025-10-24,Spotify,Entertainment,4895.02
+2026-02-05,Electricity,Utilities,2931.43
+2025-05-24,Showmax,Entertainment,2094.66
+2025-01-15,Doctor Visit,Medical,1366.55
+2025-12-11,Fuel Station,Transport,4409.71
+2026-02-01,Spotify,Entertainment,1296.26
+2025-02-16,Sanlam,Insurance,4569.9
+2025-01-05,Electricity,Utilities,786.42
+2026-04-09,Fuel Station,Transport,3241.97
+2025-05-06,Sanlam,Insurance,3600.63
+2025-12-18,Fuel Station,Transport,702.68
+2026-07-18,Netflix,Entertainment,576.68
+2026-02-24,Netflix,Entertainment,2651.37
+2026-08-22,Spotify,Entertainment,2609.23
+2025-11-19,Electricity,Utilities,328.72
+2025-07-06,Water Bill,Utilities,287.68
+2026-06-10,Takealot,Shopping,1966.57
+2025-01-18,Fuel Station,Transport,2979.7
+2026-03-10,Old Mutual,Insurance,3603.51
+2026-03-13,Bolt,Transport,3568.65
+2025-10-25,Netflix,Entertainment,3088.07
+2025-08-27,Electricity,Utilities,2712.11
+2025-02-24,Clicks,Shopping,4976.76
+2025-08-06,Sanlam,Insurance,3408.58
+2025-09-03,Pick n Pay,Food,2080.38
+2025-06-13,Pharmacy,Medical,218.71
+2026-02-07,Woolworths,Food,4491.76
+2026-01-16,Fuel Station,Transport,1693.41
+2025-05-13,Bolt,Transport,3683.73
+2025-05-23,Spotify,Entertainment,4499.15
+2025-12-15,Uber,Transport,3451.14
+2025-01-31,Uber,Transport,1061.18
+2025-10-05,Clicks,Shopping,2921.54
+2026-05-05,Amazon,Shopping,3268.27
+2025-12-22,Old Mutual,Insurance,4035.13
+2026-02-13,Old Mutual,Insurance,901.43
+2026-07-22,Discovery,Insurance,451.82
+2025-05-13,Pharmacy,Medical,4205.97
+2025-05-05,Electricity,Utilities,1886.77
+2026-08-02,Doctor Visit,Medical,1835.09
+2025-07-18,Spotify,Entertainment,2238.06
+2026-06-16,Amazon,Shopping,2183.72
+2026-07-13,Discovery,Insurance,624.79
+2025-02-09,Amazon,Shopping,4292.32
+2026-08-06,Takealot,Shopping,3526.68
+2025-09-06,Doctor Visit,Medical,259.75
+2025-05-18,Woolworths,Food,1979.47
+2025-05-25,Takealot,Shopping,1761.93
+2026-07-15,KFC,Food,1858.81
+2025-01-30,Old Mutual,Insurance,1875.8
+2026-01-07,Water Bill,Utilities,100.0
+2026-05-16,Takealot,Shopping,2279.18
+2026-01-06,Discovery,Insurance,1644.34
+2026-05-27,Netflix,Entertainment,548.55
+2025-12-28,Discovery,Insurance,1924.05
+2025-06-20,Spotify,Entertainment,1702.48
+2026-04-28,Sanlam,Insurance,4830.58
+2025-08-22,Clicks,Shopping,4839.85
+2025-08-01,Pharmacy,Medical,3726.78
+2026-06-12,Uber,Transport,870.16
+2025-08-12,Amazon,Shopping,2685.69
+2025-12-07,Bolt,Transport,551.79
+2025-06-02,KFC,Food,330.67
+2025-05-06,Discovery,Insurance,960.26
+2026-08-05,Doctor Visit,Medical,2122.57
+2025-03-13,Clicks,Shopping,323.16
+2026-07-22,Doctor Visit,Medical,507.23
+2025-07-17,Old Mutual,Insurance,653.27
+2026-08-07,Takealot,Shopping,4766.47
+2025-01-15,Spotify,Entertainment,3349.14
+2025-10-31,Clicks,Shopping,4294.46
+2026-06-16,McDonalds,Food,1792.2
+2026-01-09,Clicks,Shopping,2421.8
+2026-07-09,KFC,Food,1650.07
+2026-02-07,Old Mutual,Insurance,984.63
+2026-07-11,Discovery,Insurance,3814.84
+2026-05-09,Uber,Transport,4718.66
+2025-11-27,KFC,Food,4090.23
+2025-07-17,Pick n Pay,Food,4716.47
+2025-02-27,Clicks,Shopping,1918.17
+2025-07-25,Water Bill,Utilities,4659.49
+2025-01-12,Fuel Station,Transport,1923.18
+2026-03-19,Doctor Visit,Medical,4351.16
+2026-05-11,Uber,Transport,1405.88
+2025-08-21,Pharmacy,Medical,4180.85
+2026-05-07,Amazon,Shopping,966.22
+2025-08-12,Water Bill,Utilities,113.28
+2025-05-31,Woolworths,Food,3338.67
+2026-05-05,Pharmacy,Medical,706.03
+2025-06-08,Takealot,Shopping,4035.65
+2026-05-03,Uber,Transport,1584.08
+2026-07-06,Checkers,Food,505.52
+2025-07-14,Fuel Station,Transport,791.28
+2026-04-04,KFC,Food,3256.24
+2025-01-02,Bolt,Transport,3299.15
+2025-07-18,Fuel Station,Transport,166.19
+2026-02-15,Pick n Pay,Food,1375.63
+2026-07-02,Doctor Visit,Medical,3216.78
+2026-04-03,KFC,Food,3360.76
+2025-03-03,Takealot,Shopping,4186.25
+2025-08-21,Fuel Station,Transport,2220.31
+2025-03-09,Sanlam,Insurance,2031.61
+2025-02-14,Bolt,Transport,663.63
+2025-11-08,Pick n Pay,Food,1481.01
+2025-09-23,Discovery,Insurance,4985.43
+2026-03-06,Electricity,Utilities,2346.3
+2026-04-27,Doctor Visit,Medical,379.72
+2025-01-28,Pharmacy,Medical,1449.76
+2025-05-06,Spotify,Entertainment,983.23
+2025-10-17,Pharmacy,Medical,2469.44
+2026-08-19,Uber,Transport,3240.47
+2026-08-05,Discovery,Insurance,4985.64
+2025-10-17,Showmax,Entertainment,694.49
+2026-08-15,Spotify,Entertainment,2317.29
+2026-02-12,Takealot,Shopping,4949.88
+2026-01-31,Fuel Station,Transport,2964.07
+2026-02-03,Bolt,Transport,2370.2
+2025-06-22,Doctor Visit,Medical,1910.77
+2026-03-02,Netflix,Entertainment,4245.42
+2025-05-25,Woolworths,Food,2408.14
+2026-02-04,Fuel Station,Transport,1067.41
+2026-08-04,McDonalds,Food,3079.47
+2025-10-24,Discovery,Insurance,1022.0
+2025-10-04,Netflix,Entertainment,2010.06
+2026-07-06,Pick n Pay,Food,507.6
+2025-07-15,McDonalds,Food,4788.58
+2026-07-11,Doctor Visit,Medical,1496.7
+2025-07-29,Electricity,Utilities,3871.07
+2026-05-29,Discovery,Insurance,1280.76
+2026-05-22,Spotify,Entertainment,1505.87
+2025-02-20,Amazon,Shopping,957.12
+2026-04-13,Showmax,Entertainment,3876.14
+2025-03-08,Bolt,Transport,3622.27
+2025-10-25,Pharmacy,Medical,322.03
+2025-08-01,Pharmacy,Medical,4839.08
+2025-07-27,Electricity,Utilities,4611.74
+2026-02-14,Spotify,Entertainment,4286.3
+2025-02-14,Water Bill,Utilities,2837.4
+2025-03-10,Water Bill,Utilities,2033.64
+2025-09-05,Sanlam,Insurance,299.31
+2025-11-27,Amazon,Shopping,4665.12
+2025-07-28,Fuel Station,Transport,1133.33
+2025-09-23,Water Bill,Utilities,2173.02
+2026-01-04,Takealot,Shopping,4068.9
+2026-06-16,Uber,Transport,654.32
+2025-03-25,Pick n Pay,Food,4516.57
+2026-08-13,Fuel Station,Transport,2732.12
+2025-10-19,Pharmacy,Medical,4399.07
+2025-01-27,Fuel Station,Transport,1664.45
+2025-03-15,Doctor Visit,Medical,2328.58
+2026-06-14,Doctor Visit,Medical,3962.02
+2025-04-29,Clicks,Shopping,4610.61
+2025-07-26,McDonalds,Food,3984.23
+2025-11-20,Pharmacy,Medical,4239.03
+2025-07-25,Electricity,Utilities,3657.18
+2025-02-10,Bolt,Transport,3389.96
+2025-08-26,Pharmacy,Medical,3992.85
+2025-07-24,Electricity,Utilities,3984.19
+2025-02-12,Woolworths,Food,2370.69
+2025-08-12,Pick n Pay,Food,3943.96
+2025-11-27,McDonalds,Food,1070.26
+2025-07-20,Amazon,Shopping,4171.0
+2025-08-21,Pharmacy,Medical,490.08
+2025-08-08,Amazon,Shopping,4855.52
+2026-06-11,Checkers,Food,4822.63
+2026-07-16,Discovery,Insurance,4204.38
+2026-02-15,Spotify,Entertainment,1381.7
+2026-06-17,Netflix,Entertainment,1515.46
+2026-08-21,Uber,Transport,1562.6
+2025-10-28,Doctor Visit,Medical,1761.69
+2025-12-17,Spotify,Entertainment,1282.07
+2025-06-11,Doctor Visit,Medical,2809.47
+2025-03-26,Pharmacy,Medical,81.77
+2025-08-02,Sanlam,Insurance,540.89
+2026-04-04,Checkers,Food,4493.14
+2025-07-10,Clicks,Shopping,3010.83
+2025-12-18,Clicks,Shopping,2095.51
+2026-06-20,Bolt,Transport,116.72
+2025-04-15,Discovery,Insurance,3564.31
+2025-01-03,Electricity,Utilities,1371.5
+2025-09-06,Old Mutual,Insurance,3724.46
+2026-03-27,Amazon,Shopping,3856.28
+2026-05-11,Sanlam,Insurance,3015.53
+2025-03-19,Pick n Pay,Food,4053.34
+2025-09-14,Checkers,Food,3800.62
+2026-02-07,Electricity,Utilities,2418.08
+2026-02-24,Electricity,Utilities,1799.12
+2025-12-27,Takealot,Shopping,499.38
+2026-05-27,Electricity,Utilities,752.34
+2026-07-19,Fuel Station,Transport,3376.61
+2026-04-25,Electricity,Utilities,2661.41
+2026-07-21,Checkers,Food,4661.75
+2026-04-21,Fuel Station,Transport,2509.61
+2025-01-12,Showmax,Entertainment,2972.2
+2025-08-27,Doctor Visit,Medical,4926.01
+2026-06-25,Electricity,Utilities,3052.6
+2026-08-16,Water Bill,Utilities,4396.42
+2025-04-23,Checkers,Food,2978.75
+2025-11-28,Checkers,Food,4709.2
+2025-08-02,Doctor Visit,Medical,2840.16
+2025-12-20,Takealot,Shopping,3410.74
+2026-02-25,Checkers,Food,3520.81
+2025-01-15,Takealot,Shopping,2040.7
+2025-01-08,Electricity,Utilities,3975.72
+2026-07-09,Takealot,Shopping,352.92
+2026-06-22,Amazon,Shopping,2075.13
+2026-07-03,Pharmacy,Medical,3474.71
+2025-10-28,Takealot,Shopping,3239.02
+2025-09-23,Checkers,Food,329.96
+2025-06-23,Amazon,Shopping,3558.0
+2025-08-13,Pharmacy,Medical,3210.35
+2025-09-22,Spotify,Entertainment,1917.71
+2025-11-12,Checkers,Food,4724.41
+2025-07-10,Takealot,Shopping,3965.08
+2025-07-06,Woolworths,Food,1846.53
+2026-01-01,Showmax,Entertainment,535.86
+2025-04-26,Pharmacy,Medical,3587.13
+2026-03-23,Water Bill,Utilities,2174.61
+2026-07-20,Checkers,Food,258.15
+2026-01-11,Takealot,Shopping,2643.77
+2026-01-13,Showmax,Entertainment,1735.2
+2025-09-10,Takealot,Shopping,2637.37
+2026-07-06,Spotify,Entertainment,1570.24
+2026-03-23,Doctor Visit,Medical,619.18
+2025-07-21,McDonalds,Food,4618.73
+2025-03-23,Spotify,Entertainment,1374.66
+2025-08-19,Showmax,Entertainment,1117.94
+2025-11-26,Old Mutual,Insurance,643.2
+2025-10-07,Pharmacy,Medical,760.69
+2026-08-11,Fuel Station,Transport,4430.68
+2025-01-21,Sanlam,Insurance,1521.52
+2025-06-10,Clicks,Shopping,2708.77
+2025-12-18,Pharmacy,Medical,3089.31
+2025-06-15,Bolt,Transport,257.64
+2026-07-23,Pharmacy,Medical,489.01
+2025-12-08,Checkers,Food,1209.86
+2026-03-16,Old Mutual,Insurance,1344.26
+2026-04-15,Spotify,Entertainment,273.66
+2026-05-25,Electricity,Utilities,3899.24
+2025-09-06,Showmax,Entertainment,926.43
+2025-10-09,Old Mutual,Insurance,4432.96
+2026-03-27,Showmax,Entertainment,3567.03
+2025-08-07,Bolt,Transport,701.09
+2026-03-10,Pharmacy,Medical,4154.23
+2026-03-30,Water Bill,Utilities,2903.0
+2025-11-05,Sanlam,Insurance,1208.81
+2025-01-17,Water Bill,Utilities,4791.49
+2026-07-27,KFC,Food,1103.12
+2026-04-25,Discovery,Insurance,2835.12
+2025-03-16,Showmax,Entertainment,1557.35
+2026-04-03,Bolt,Transport,395.24
+2025-02-14,Uber,Transport,3328.92
+2026-08-18,Netflix,Entertainment,1132.66
+2026-05-28,KFC,Food,4590.22
+2026-07-26,Clicks,Shopping,626.5
+2025-09-17,Woolworths,Food,3840.76
+2025-08-26,Discovery,Insurance,3747.47
+2025-07-28,Electricity,Utilities,4663.98
+2025-09-07,Pharmacy,Medical,1335.75
+2025-09-19,Takealot,Shopping,3013.56
+2025-06-30,Old Mutual,Insurance,1183.78
+2025-09-19,Doctor Visit,Medical,2033.6
+2025-03-13,Bolt,Transport,1932.2
+2025-12-04,Doctor Visit,Medical,3536.37
+2025-03-10,Old Mutual,Insurance,1613.6
+2025-09-10,Doctor Visit,Medical,4937.33
+2026-01-08,Discovery,Insurance,3694.98
+2025-09-09,Takealot,Shopping,476.1
+2026-04-25,Fuel Station,Transport,1923.54
+2026-07-22,Fuel Station,Transport,835.22
+2025-05-17,Checkers,Food,548.42
+2025-01-02,Bolt,Transport,4937.85
+2025-02-03,Old Mutual,Insurance,573.11
+2025-07-25,Water Bill,Utilities,1982.57
+2025-03-29,Pick n Pay,Food,2878.73
+2025-02-13,Spotify,Entertainment,707.66
+2025-03-13,Takealot,Shopping,1128.63
+2025-03-17,Woolworths,Food,2212.36
+2026-06-08,Discovery,Insurance,2591.44
+2025-10-30,Fuel Station,Transport,3409.18
+2026-04-12,Clicks,Shopping,3940.43
+2026-07-05,Pick n Pay,Food,1584.44
+2025-04-05,Uber,Transport,4878.14
+2026-01-15,McDonalds,Food,932.32
+2025-04-27,Showmax,Entertainment,4720.96
+2025-07-08,Checkers,Food,3137.38
+2025-10-26,Netflix,Entertainment,3080.53
+2026-07-10,Bolt,Transport,3009.34
+2026-03-02,Water Bill,Utilities,2489.65
+2026-08-15,Bolt,Transport,3690.33
+2026-04-12,Electricity,Utilities,2815.65
+2025-02-26,Electricity,Utilities,4650.13
+2026-07-27,KFC,Food,1558.65
+2026-01-11,Discovery,Insurance,3040.36
+2025-04-26,Bolt,Transport,3789.05
+2025-04-28,Pick n Pay,Food,4266.74
+2025-04-07,Fuel Station,Transport,1966.2
+2025-08-26,Electricity,Utilities,2962.6
+2026-04-27,Fuel Station,Transport,4378.1
+2025-11-03,Water Bill,Utilities,3713.38
+2026-02-10,Bolt,Transport,279.31
+2025-03-18,Takealot,Shopping,1406.89
+2025-05-16,Electricity,Utilities,3837.08
+2026-04-16,Uber,Transport,1377.18
+2025-07-18,Water Bill,Utilities,4132.94
+2025-06-28,Discovery,Insurance,1273.91
+2026-01-23,Netflix,Entertainment,4668.9
+2025-11-04,Pharmacy,Medical,1750.47
+2026-04-16,Woolworths,Food,4643.21
+2025-02-11,Discovery,Insurance,2283.21
+2025-06-20,McDonalds,Food,362.68
+2025-02-14,Uber,Transport,2504.33
+2026-02-18,Old Mutual,Insurance,4680.01
+2025-01-29,Uber,Transport,1256.31
+2025-05-05,Pharmacy,Medical,1765.37
+2026-01-24,Uber,Transport,2740.98
+2025-10-24,Doctor Visit,Medical,4054.35
+2025-04-24,Pharmacy,Medical,4056.77
+2025-07-24,Pharmacy,Medical,4164.1
+2025-03-08,Pharmacy,Medical,2277.0
+2026-01-22,Woolworths,Food,4504.17
+2025-08-03,Pick n Pay,Food,4049.91
+2026-01-26,Uber,Transport,2126.21
+2025-08-28,Electricity,Utilities,2684.51
+2025-10-19,Spotify,Entertainment,3301.26
+2025-06-04,Electricity,Utilities,88.25
+2026-06-27,Spotify,Entertainment,485.52
+2025-05-17,Woolworths,Food,129.09
+2026-05-10,Pharmacy,Medical,4251.7
+2025-02-13,Amazon,Shopping,3080.44
+2025-07-05,Netflix,Entertainment,1483.74
+2026-01-24,Water Bill,Utilities,136.45
+2026-01-07,Fuel Station,Transport,1266.67
+2026-02-25,KFC,Food,4702.06
+2025-05-17,Old Mutual,Insurance,2812.3
+2025-09-22,Fuel Station,Transport,974.12
+2026-08-11,Netflix,Entertainment,1241.79
+2026-03-14,Netflix,Entertainment,3329.05
+2026-03-04,Doctor Visit,Medical,85.7
+2026-01-24,Netflix,Entertainment,297.95
+2025-04-11,Checkers,Food,3548.61
+2026-03-06,Bolt,Transport,3252.24
+2025-02-03,Fuel Station,Transport,1123.35
+2025-11-21,Doctor Visit,Medical,4226.26
+2026-01-01,Woolworths,Food,950.17
+2025-11-21,Amazon,Shopping,1690.84
+2025-09-13,Showmax,Entertainment,4858.93
+2025-05-20,KFC,Food,1839.62
+2026-04-18,Uber,Transport,4987.16
+2026-08-03,Sanlam,Insurance,1832.45
+2026-01-02,Clicks,Shopping,1215.79
+2025-02-15,Woolworths,Food,1694.83
+2026-05-17,Showmax,Entertainment,254.65
+2025-09-09,Fuel Station,Transport,542.15
+2026-07-07,Electricity,Utilities,407.83
+2026-02-02,McDonalds,Food,2439.75
+2026-01-30,Water Bill,Utilities,2372.92
+2025-02-08,Doctor Visit,Medical,3622.26
+2025-02-21,Bolt,Transport,457.39
+2025-12-31,Pharmacy,Medical,1872.58
+2025-02-19,Pick n Pay,Food,2886.55
+2025-09-05,Woolworths,Food,1923.75
+2025-06-22,Electricity,Utilities,2148.21
+2025-10-24,Takealot,Shopping,782.08
+2025-10-10,Checkers,Food,2770.57
+2025-09-21,Sanlam,Insurance,3772.49
+2026-07-09,Spotify,Entertainment,1890.3
