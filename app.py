@@ -55,8 +55,8 @@ st.markdown(f"""
 """, unsafe_allow_html=True)
 
 # ---------- Supabase connection ----------
-url = "https://ltzghyyhqglwqcwusmlt.supabase.co"
-key = "sb_publishable_o-FY0g6pPRvMD4RySMY4tA_f6L_Rbxp"
+url = st.secrets["SUPABASE_URL"]
+key = st.secrets["SUPABASE_KEY"]
 
 supabase = create_client(url, key)
 
